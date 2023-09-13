@@ -1,1 +1,1 @@
-Javascript es un lenguaje interpretado multipropósito. Es el lenguaje más usado del mundo.
+Javascript es un lenguaje interpretado multipropósito. Es el lenguaje más usado del mundo
